@@ -1,4 +1,5 @@
 title: Ping
 description: Aplikacja Ping z zapisem do logu
 show_downloads: true
+theme: jekyll-theme-slate
 
