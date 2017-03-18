@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+title: Ping
+description: Aplikacja Ping z zapisem do logu
+show_downloads: true
+
